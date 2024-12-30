@@ -3,6 +3,8 @@
 
 # Speak From Heart: 基于情感引导的LLM多模态对话生成方法
 
+![image](https://github.com/user-attachments/assets/4582a223-9e19-4a0b-874c-b5732a4d2a9f)
+
 ## 简介
 本项目提供了 **ELMD**（Emotion-Guided LLM-Based Multimodal Dialogue）的实现代码，这是一种创新的基于大语言模型（LLM）的情感引导多模态对话框架。ELMD通过融合文本和视觉线索，显著提升了对话系统的情感表达能力，能够生成更具情感共鸣且贴近人类的自然对话内容，解决了传统情感对话生成中的诸多局限性。
 
