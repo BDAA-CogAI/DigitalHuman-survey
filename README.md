@@ -2,6 +2,7 @@
 我们调研了数字人相关的论文、项目、国内外现状等，并对各方面调研、资料进行了整合和归纳。
 
 # Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis 
+![image](https://github.com/user-attachments/assets/9c8900e9-c788-47ef-98cb-eb8bc085d2d2)
 
 ## 简介
 多模态情感分析（Multimodal Sentiment Analysis, MSA）整合了文本、音频和视觉等模态数据，用于分析情感。然而，由于数据标注的限制，现有方法难以有效平衡模态间的一致性和差异性。因此，本文提出了一个**Self-MM**框架，通过自监督多任务学习获取特定模态的表示：
