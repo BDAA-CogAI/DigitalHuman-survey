@@ -1,6 +1,8 @@
 # DigitalHuman-survey
 我们调研了数字人相关的论文、项目、国内外现状等，并对各方面调研、资料进行了整合和归纳。
 
+---
+
 # Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis 
 ![image](https://github.com/user-attachments/assets/9c8900e9-c788-47ef-98cb-eb8bc085d2d2)
 
